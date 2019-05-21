@@ -11,7 +11,7 @@ Circuit Playground features an ATmega32u4 processor, just like our popular Flora
 This is the PCB files for the Adafruit **Circuit Playground Classic** (not the Express). The format is EagleCAD schematic and board layout
 - http://www.adafruit.com/products/3000
 
-The Circuit Playground Express can be found at http://www.adafruit.com/products/3000
+**The Circuit Playground Express can be found at http://www.adafruit.com/products/3333**
 
 ### License
 
